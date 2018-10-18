@@ -1,4 +1,4 @@
-// not mine, but from udemy. 
+// not mine, but from udemy.
 package com.example.tonytea.dicee;
 
 import android.media.Image;
